@@ -1,0 +1,14 @@
+C:\Users\busch\Documents\projects\testtext\bin\Debug\net8.0\testtext.exe
+C:\Users\busch\Documents\projects\testtext\bin\Debug\net8.0\testtext.deps.json
+C:\Users\busch\Documents\projects\testtext\bin\Debug\net8.0\testtext.runtimeconfig.json
+C:\Users\busch\Documents\projects\testtext\bin\Debug\net8.0\testtext.dll
+C:\Users\busch\Documents\projects\testtext\bin\Debug\net8.0\testtext.pdb
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.AssemblyInfoInputs.cache
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.AssemblyInfo.cs
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.csproj.CoreCompileInputs.cache
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.dll
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\refint\testtext.dll
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.pdb
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\testtext.genruntimeconfig.cache
+C:\Users\busch\Documents\projects\testtext\obj\Debug\net8.0\ref\testtext.dll
